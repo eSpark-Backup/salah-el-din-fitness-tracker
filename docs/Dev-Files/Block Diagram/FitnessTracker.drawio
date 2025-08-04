@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
+  <diagram name="Page-1" id="WyWxbvi0Ft3_cJOBtuT9">
+    <mxGraphModel dx="1177" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-1" value="&lt;div&gt;BLE&lt;/div&gt;ANNA-B112-70B" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="499" width="103" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fqbMijeggVjQ2zvSxR5U-2" target="fqbMijeggVjQ2zvSxR5U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-2" value="PMIC&lt;br&gt;BQ25120AYFPR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fqbMijeggVjQ2zvSxR5U-3" target="fqbMijeggVjQ2zvSxR5U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-3" value="PPG&lt;br&gt;MAX30102" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fqbMijeggVjQ2zvSxR5U-4" target="fqbMijeggVjQ2zvSxR5U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-4" value="IMU&lt;br&gt;LSM6DSOXTR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fqbMijeggVjQ2zvSxR5U-5" target="fqbMijeggVjQ2zvSxR5U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-5" value="Pressure Sensor&lt;div&gt;LPS22HHTR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fqbMijeggVjQ2zvSxR5U-6" target="fqbMijeggVjQ2zvSxR5U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fqbMijeggVjQ2zvSxR5U-6" value="Battery&lt;br&gt;GRP1507025 (3C rated)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
